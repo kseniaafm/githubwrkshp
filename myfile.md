@@ -8,3 +8,5 @@ i like :
 - the color orange
 
 ![Baby Ksenia](https://www.petlandtexas.com/wp-content/uploads/2016/08/Red_Bunny_Petland_Puppy.jpg)
+
+My favorite book is the virgin suicides 
