@@ -39,6 +39,8 @@ Paragraph with **bold** text and *italicized* text.
 
 ![This is an image with alt text](imageurl.jpg)
 
+Horizontal Rule	---
+
 ```
 
 See also this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) for more markdown syntax.
